@@ -1,7 +1,7 @@
 {
   "name": "dev.noxelis.streamschedulegenerator",
   "productName": "Stream Schedule Generator",
-  "version": "3.0.17",
+  "version": "3.0.18",
   "description": "Générateur automatique de planning de stream.",
   "license": "CC-BY-SA-4.0",
   "main": "./out/main/index.js",
@@ -38,7 +38,7 @@
     "@electron-toolkit/eslint-config": "^2.0.0",
     "@electron-toolkit/eslint-config-prettier": "^3.0.0",
     "@vitejs/plugin-vue": "^5.2.3",
-    "electron": "^40.1.0",
+    "electron": "^41.10.3",
     "electron-builder": "^26.15.0",
     "electron-vite": "^3.1.0",
     "eslint": "^9.24.0",
